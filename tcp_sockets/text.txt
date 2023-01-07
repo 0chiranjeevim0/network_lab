@@ -1,0 +1,1 @@
+Socket Programming is used for communicating different JRE in the different networks in java. In simple words, we can say socket programming is connecting two nodes in different networks and communicating two each other.
